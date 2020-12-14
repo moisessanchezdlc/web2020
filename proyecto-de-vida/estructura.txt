@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>proyecto de vida</title>
-
-
-  <link rel="stylesheet" href="css/style.css">
-</head>
-
-<body>
-  <!--menu de navegacion-->
+<!--menu de navegacion-->
   <nav class="navbar navbar-dark bg-primary">
     <div class="container">
       <a class="navbar-brand" href="index.html">proyecto</a>
@@ -37,18 +24,14 @@
       </div>
 
       <div class="col-5">
-        <h1>proyecto de vida</h1>
-        <h2>Moisés E. sanchez de la cruz</h2>
+        
+        
       </div>
 
       <div class="col-3">
-        <img src="" alt="">
+        
+
       </div>
 
     </div>
   </div>
-
-
-</body>
-
-</html>
